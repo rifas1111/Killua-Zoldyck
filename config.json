@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://api.zahwazein.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "zenzkey_48529daa4064"
   },
   "options": {
     "autoRead": true,
@@ -14,7 +14,7 @@
     "author": "https://api.zahwazein.xyz"
   },
   "owner": [
-    "62812XXX"
+    "919037587521"
   ],
   "timezone": "Asia/Jakarta",
   "footer": "Powered by https://api.zahwazein.xyz"
